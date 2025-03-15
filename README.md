@@ -1,10 +1,10 @@
-# 【2025年3月14日更新】最全官方 ChatGPT 镜像网站推荐：国内免费访问指南（包括 GPT-4 和 GPT-o1和GPT-o3和deepseek）
+# 【2025年3月16日更新】最全官方 ChatGPT 镜像网站推荐：国内免费访问指南（包括 GPT-4 和 GPT-o1和GPT-o3和deepseek）
 
-> 更新时间：2025年3月14日
+> 更新时间：2025年3月16日
 
 ## 想快速访问 ChatGPT？
 
-我们为您整理了最新的国内可用的 ChatGPT 镜像站资源，无需翻墙，支持 GPT-4、GPT-4o 和 AI 绘图功能。以下内容包括推荐站点、功能对比、使用教程和最新动态，助您轻松选择最佳站点。
+我们为您整理了最新的国内可用的 ChatGPT 镜像站资源，无需翻墙，支持 GPT-4、GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3和 AI 绘图功能。以下内容包括推荐站点、功能对比、使用教程和最新动态，助您轻松选择最佳站点。
 
 ## 推荐的 ChatGPT 镜像站点
 
@@ -12,7 +12,7 @@
 
 | 站点名称                | 支持版本      | 免费额度 | 独特功能       | 速度与稳定性 |
 |-----------------------|------------|---------|-------------|---------|
-| [songshugpt.com](https://songshugpt.com) | GPT-4, GPT-3.5 | 有       | MidJourney 绘图支持 | ⭐⭐⭐⭐⭐   |
+| [songshugpt.com](https://songshugpt.com) | GPT-3.5、GPT-4、GPT-o1、GPT-o3、Deepseek、Grok3 | 有       | MidJourney 绘图支持 | ⭐⭐⭐⭐⭐   |
 | [gptdog](https://gptdog.online/)                | GPT-4, GPT-o1 | 有       | 高级语音对话     | ⭐⭐⭐⭐⭐   |
 | [ai-panda.xyz ](https://ai-panda.xyz)          | GPT-4, GPT-3.5 | 有       | API 调用功能   | ⭐⭐⭐⭐    |
 | [gptcat.net ](https://gptcat.net)         | GPT-3.5    | 有       | 简单免费，新手友好 | ⭐⭐⭐     |
