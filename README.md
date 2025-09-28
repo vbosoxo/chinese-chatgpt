@@ -12,7 +12,7 @@
 
 | 站点名称                | 支持版本      | 免费额度 | 独特功能       | 速度与稳定性 |
 |-----------------------|------------|---------|-------------|---------|
-| [songshugpt.com](https://songshugpt.com) | GPT-3.5、GPT-4、GPT-o1、GPT-o3、Deepseek、Grok3 | 有       | MidJourney 绘图支持 | ⭐⭐⭐⭐⭐   |
+| [www.songshugpt.com](https://www.songshugpt.com) | GPT-3.5、GPT-4、GPT-o1、GPT-o3、Deepseek、Grok3 | 有       | MidJourney 绘图支持 | ⭐⭐⭐⭐⭐   |
 | [gptdog](https://gptdog.online/)                | GPT-4, GPT-o1 | 有       | 高级语音对话     | ⭐⭐⭐⭐⭐   |
 | [ai-panda.xyz ](https://ai-panda.xyz)          | GPT-4, GPT-3.5 | 有       | API 调用功能   | ⭐⭐⭐⭐    |
 | [gptcat.net ](https://gptcat.net)         | GPT-3.5    | 有       | 简单免费，新手友好 | ⭐⭐⭐     |
@@ -21,7 +21,7 @@
 
 为了帮助您更好地选择适合的 ChatGPT 镜像站点，以下是对各站点功能的详细对比：
 
-| 功能项 | [songshugpt.com](https://songshugpt.com) | [gptdog](https://gptdog.online/)  | [ai-panda.xyz ](https://ai-panda.xyz) | [gptcat.net ](https://gptcat.net) |
+| 功能项 | [www.songshugpt.com](https://www.songshugpt.com) | [gptdog](https://gptdog.online/)  | [ai-panda.xyz ](https://ai-panda.xyz) | [gptcat.net ](https://gptcat.net) |
 |--------|----------------|--------|--------------|---------------|
 | 支持 GPT-4 | ✅ | ✅ | ✅ | ✅ |
 | 免费额度 | 有 | 有 | 有 | 有 |
@@ -38,12 +38,12 @@
 
 根据您的需求选择适合的镜像站点。以下是一些推荐：
 
-- **功能丰富**：选择 [songshugpt.com](https://songshugpt.com)，支持 GPT-4 和 MidJourney 绘图。
+- **功能丰富**：选择 [www.songshugpt.com](https://www.songshugpt.com)，支持 GPT-4 和 MidJourney 绘图。
 - **高级对话**：选择 [ai.panda.xyz](http://ai.panda.xyz)，体验高级语音对话功能。
 
 ### 步骤 2：注册或直接使用
 
-- **需要注册**：部分站点如 [songshugpt.com](https://songshugpt.com) 需要通过国内邮箱注册账号，按照提示填写信息即可完成。
+- **需要注册**：部分站点如 [www.songshugpt.com](https://www.songshugpt.com) 需要通过国内邮箱注册账号，按照提示填写信息即可完成。
 
 ### 步骤 3：选择服务版本
 
@@ -65,8 +65,8 @@
 
 根据所选站点，您还可以探索以下高级功能：
 
-- **MidJourney 绘图**：在 [songshugpt.com](https://songshugpt.com)，使用文本描述生成精美图像。
-- **高级语音对话**：在 [songshugpt.com](https://songshugpt.com)，通过语音与 ChatGPT 互动。
+- **MidJourney 绘图**：在 [www.songshugpt.com](https://www.songshugpt.com)，使用文本描述生成精美图像。
+- **高级语音对话**：在 [www.songshugpt.com](https://www.songshugpt.com)，通过语音与 ChatGPT 互动。
 
 ## 为什么选择 ChatGPT 镜像站？
 
@@ -91,7 +91,7 @@
    部分站点提供免费额度，适合日常使用；高级功能或更大额度可能需要付费，具体收费标准请参考各站点的用户协议或定价页面。
 
 4. **哪些站点适合新手使用？**
-   [songshugpt.com](https://songshugpt.com)：界面简洁，操作简单，非常适合新手快速上手。
+   [www.songshugpt.com](https://www.songshugpt.com)：界面简洁，操作简单，非常适合新手快速上手。
 
 5. **如何保护我的隐私和数据安全？**
    虽然这些镜像站点已经采取了一定的安全措施，但用户仍应谨慎对待个人信息。避免在对话中透露敏感数据，如身份证号码、银行信息等。此外，定期检查账号活动，确保未授权的访问。
